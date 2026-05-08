@@ -16,3 +16,8 @@ Complete code for *"Cross-Corpus Generalization Failure of Laughter Recognition 
 - t-SNE visualization
 
 ## Datasets (Public)
+Datasets publicly available:  
+- RAVDESS: https://zenodo.org/records/1188976  
+- CREMA-D: https://github.com/CheyneyComputerScience/CREMA-D  
+- VocalSound: https://github.com/YuanGongND/vocalsound
+- Ehehe Corpus: https://huggingface.co/datasets/litagin/ehehe-corpus
